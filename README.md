@@ -1,0 +1,3 @@
+# KugouSpider
+此爬虫为爬取酷狗音乐排行榜并批量下载的python项目，需要bs4+selenium
+selenium驱动需要自己进行下载，在主函数中运行即可
